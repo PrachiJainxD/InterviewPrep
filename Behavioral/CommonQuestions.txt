@@ -1,0 +1,84 @@
+Tell me about yourself.
+
+STAR Questions
+Tell me about a time you collaborated with a diverse team.
+Tell me about a time you showed a bias for action.
+Tell me about a time when you solved a problem creatively.
+What were some of the projects that you worked on in your last job?
+What is one of your biggest professional accomplishments?
+How many years of experience do you have as a ML engineer?
+What was your favorite project to work on? Why?
+
+Non-STAR Questions 
+- Company/Job Desciption Specific
+Why should we hire you?
+Why do you want to work here?
+What do you know about this role?
+What do you know about our organization?
+What are your salary expectations?
+What questions do you have for us?
+What do you like about our company website?
+Where did you hear about the job opening?
+Do you prefer to work on a team or alone?
+What makes you the best candidate for this position?
+Do you have any experience working remotely?
+
+- Non Company/Job Desciption Specific
+What is one of your weaknesses?
+What would you say is your greatest strength as a ML engineer?
+Where do you want to be in five years?
+What is the biggest disappointment in your career so far?
+
+- Teamwork Questions
+What are some approaches to handling conflict on a team?
+Tell me about a time when you had to work closely with someone whose personality was very different from yours.
+Give me an example of a time you faced a conflict with a coworker. How did you handle that?
+How do you manage multiple tasks simultaneously?
+How do you stay organized while developing a software application?
+Describe a time when you had to step up and demonstrate leadership skills. or
+If given a project, what steps would you take to ensure its successful completion?
+Tell me about a time you made a mistake and wish you’d handled a situation with a colleague differently. or
+Tell me about a time you failed. How did you deal with the situation?
+Tell me about a time you needed to get information from someone who wasn’t very responsive. What did you do?
+
+- Adaptability Questions
+Tell me about a time you were under a lot of pressure at work or at school. 
+What was going on, and how did you get through it?
+Describe a time when your team or company was undergoing some change. 
+How did that impact you, and how did you adapt?
+Tell me about settling into your last job. What did you do to learn the ropes?
+Give me an example of a time when you had to think on your feet.
+
+- Time Management Questions
+Give me an example of a time you managed numerous responsibilities. How did you handle that?
+Describe a long-term project that you kept on track. How did you keep everything moving?
+Tell me about a time your responsibilities got a little overwhelming. What did you do?
+Tell me about a time you set a goal for yourself. How did you go about ensuring that you would meet your objective?
+Tell me about a time an unexpected problem derailed your planning. How did you recover?
+
+- Communication  Questions
+Tell me about a time when you had to rely on written communication to get your ideas across.
+Give me an example of a time when you were able to successfully persuade someone at work to see things your way.
+Describe a time when you were the resident technical expert. 
+What did you do to make sure everyone was able to understand you?
+Give me an example of a time when you had to have a difficult conversation with a frustrated client or colleague. How did you handle the situation?
+Tell me about a successful presentation you gave and why you think it was a hit.
+
+- Motivation and Values Questions
+Tell me about your proudest professional accomplishment.
+Describe a time when you saw a problem and took the initiative to correct it.
+Tell me about a time when you worked under either extremely close supervision or extremely loose supervision. How did you handle that?
+Give me an example of a time you were able to be creative with your work. 
+What was exciting or difficult about it?
+Tell me about a time you were dissatisfied in your role. What could have been done to make it better? 
+
+- Technical Questions
+What is your favorite programming language? Why?
+What are your most important software development/ML ethics?
+How do you keep up with new technology in the industry?
+Describe a time when you had to debug an issue and how did you go about it? or
+What techniques have you found to be effective for debugging code?
+What type of software development methodologies have you used in the past?
+Do you have any experience with version control systems such as Git or Subversion?
+Are there any new programming languages that you are hoping to learn?
+
